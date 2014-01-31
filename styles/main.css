@@ -3,7 +3,11 @@
 	margin: 0 auto;
 }
 
-img {
+.left {
+	float: left;
+}
+
+.right {
 	float: right;
 }
 
